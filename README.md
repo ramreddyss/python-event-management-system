@@ -1,6 +1,3 @@
-# python-event-management-system
-Event Management System using python and Django 
-=======
 # Event Management System
 
 This project is a web-based Event Management System built using Django framework. It allows users to create, manage, and view events and venues.
